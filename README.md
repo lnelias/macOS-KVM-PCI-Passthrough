@@ -189,7 +189,7 @@ Next we need to install a UEFI implementation for QEMU.
                                        | 
                                        \--- Change path here
   
-  <nvram template='/home/yoonsik/macos/OVMF_VARS.fd'>/home/yoonsik/macos/nvram-macos_VARS.fd</nvram>
+  <nvram template='/home/yoonsik/macos/OVMF_VARS.fd'>/home/yoonsik/macos/OVMF_VARS.fd</nvram>
                   ^                                  ^               
                   |                                  |                  
                   \--- And here                      \--- change directory only
